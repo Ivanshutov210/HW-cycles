@@ -46,5 +46,9 @@ public class Main {
             totalA += salaryA;
             System.out.println("Месяц " + monthOne + ", сумма накоплений равна " + totalA + " рублей");
         }
+        System.out.println("Задача 10");
+        for (int i = 1; i <= 10; i++) {
+            System.out.println("2 * " + i + " = " + (2 * i));
+        }
     }
 }
